@@ -1,11 +1,11 @@
-# Sample repository
+# Sample repository :pizza:
 ----
-We'll be using this repository to practice using Git and GitHub.
+We'll be using this repository to practice using Git :pizza: and GitHub :pizza:.
 
-Process:
+Process: :pizza:
 
-1. Clone the repository
-2. Modify the repository
-3. Push your changes.
-4. Modify the repository online.
-5. Pull your changes.
+1. Clone the repository :pizza:
+2. Modify the repository :pizza:
+3. Push your changes. :pizza:
+4. Modify the repository online. :pizza:
+5. Pull your changes. :pizza:
